@@ -19,21 +19,18 @@ Hi, Here is an example of a table for programming languages.
 |     2| R             |
 |     3| SQL           |
 </details>
+ 
+**IssyModica/IssyModica** is my ✨ _special_ ✨ repository
+
+- 🔭 I’m currently working on coding.
+- 🌱 I’m currently learning coding.
+- 👯 I’m looking to collaborate on coding.
+- 🤔 I’m looking for help with coding.
+- 💬 Ask me about coding.
+- 📫 How to reach me: GitHub
+- 😄 Pronouns: Coding/Monster
+- ⚡ Fun fact: I am new to coding.
 
 ---
 > Real eyes, realise, real lies
 - in HPDM172
- 
-**IssyModica/IssyModica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on coding.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i am new to coding.
-
